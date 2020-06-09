@@ -3,7 +3,6 @@
 
 
 
-
 body {
   font-family: Rubik;
 }
@@ -16,7 +15,7 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'SAMAN___';
   font-size: 3rem;
   font-display: swap;
 }
@@ -723,6 +722,46 @@ section.lazy-placeholder:after {
 .cid-rOjYVYzS2g .mbr-section-btn {
   color: #ffffff;
 }
+.cid-s1nVtr4lXY {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/background5.jpg");
+}
+.cid-s1nVtr4lXY .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s1nVtr4lXY .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-s1nVtr4lXY .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-s1nVtr4lXY .team-item .item-image img {
+  width: 100%;
+}
+.cid-s1nVtr4lXY .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-s1nVtr4lXY .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-s1nVtr4lXY .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-s1nVtr4lXY .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-s1nVtr4lXY .team-item .item-caption {
+  background: #efefef;
+}
 .cid-rOk2ote2rM {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -762,6 +801,9 @@ section.lazy-placeholder:after {
 }
 .cid-rOk2ote2rM .team-item .item-caption {
   background: #efefef;
+}
+.cid-rOk2ote2rM H2 {
+  color: #ff3366;
 }
 .cid-rPmAaNy1Gm {
   padding-top: 0px;
