@@ -3,6 +3,7 @@
 
 
 
+
 body {
   font-family: Rubik;
 }
@@ -15,7 +16,7 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'SAMAN___';
+  font-family: 'Rubik', sans-serif;
   font-size: 3rem;
   font-display: swap;
 }
